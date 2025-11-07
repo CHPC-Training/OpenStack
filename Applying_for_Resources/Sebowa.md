@@ -1,3 +1,3 @@
 # Sebowa
 
-![image](https://github.com/ChpcTraining/OpenStack/assets/SebowaUsersPortal.png)
+![screenshot](assets/SebowaUsersPortal.png)
