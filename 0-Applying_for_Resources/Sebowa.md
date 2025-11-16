@@ -1,4 +1,5 @@
-# Sebowa Users Portal
+# 0. Applying for Resources
+## Sebowa Users Portal
 
 1. Register an account on: https://sebowausers.nicis.ac.za
 <img width="1148" height="649" alt="SebowaUsersPortal" src="https://github.com/user-attachments/assets/645a7c18-5fff-40a9-81ce-7756635ddcf4" />
