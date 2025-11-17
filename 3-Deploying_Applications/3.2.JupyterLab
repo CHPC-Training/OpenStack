@@ -1,0 +1,17 @@
+# 3. Deploying Applications
+## 3.2 JupyterLab
+
+TO TIDY:
+- dnf install pip
+- pip install virtualenv
+- virtualenv py3jupyterlab
+- dnf install epel-release
+- dnf install screen
+- screen -r 
+- source py3jupyterlab/bin/activate
+- jupyter lab -ip 0.0.0.0 --port 8.8.8.8
+- ctrl-D to detach from screen session
+
+
+**Challenges**:
+- Can you figure out two different ways to access this JupyterLab server?
