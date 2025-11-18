@@ -16,7 +16,7 @@ The idea is approach this in numerical order of the directory structure, but to 
 
 <p align="center">
   <img width="25%" alt="Hashicorp-Terraform_onDark" src="https://github.com/user-attachments/assets/8d2491fb-fcf2-42a0-a268-e420e716de86" />
-  <img width="20%" alt="aptira_grafana_prometheus_training" src="https://github.com/user-attachments/assets/a6e49cb3-a395-4567-83cf-075b53e42949" />
+  <img width="15%" alt="aptira_grafana_prometheus_training" src="https://github.com/user-attachments/assets/a6e49cb3-a395-4567-83cf-075b53e42949" />
 </p>
 
 <p align="center">
