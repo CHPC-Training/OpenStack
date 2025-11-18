@@ -10,6 +10,10 @@ The idea is approach this in numerical order of the directory structure, but to 
 - Sections 0, 1, 2, and 3.1.
 - Section 4 and then back to 3.2.
 
-<p align="right">
+<p align="center">
   <img width="50%" alt="OpenStack-Logo-Horizontal" src="https://github.com/user-attachments/assets/ab034a6e-0d74-40b4-b7cd-a8f37daa823d" />
+</p>
+
+<p align="center">
+  <img width="60%" alt="Hashicorp-Terraform_onDark" src="https://github.com/user-attachments/assets/8d2491fb-fcf2-42a0-a268-e420e716de86" />
 </p>
