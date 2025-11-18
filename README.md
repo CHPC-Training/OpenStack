@@ -16,9 +16,9 @@ The idea is approach this in numerical order of the directory structure, but to 
 
 <p align="center">
   <img width="25%" alt="Hashicorp-Terraform_onDark" src="https://github.com/user-attachments/assets/8d2491fb-fcf2-42a0-a268-e420e716de86" />
-  <img width="60%" alt="aptira_grafana_prometheus_training" src="https://github.com/user-attachments/assets/a6e49cb3-a395-4567-83cf-075b53e42949" />
+  <img width="25%" alt="aptira_grafana_prometheus_training" src="https://github.com/user-attachments/assets/a6e49cb3-a395-4567-83cf-075b53e42949" />
 </p>
 
 <p align="center">
-  <img width="80%" alt="113486723-37566400-9482-11eb-9673-417033a6e8ad" src="https://github.com/user-attachments/assets/962294c2-6459-4f7f-a15a-64381bf575b2" />
+  <img width="40%" alt="113486723-37566400-9482-11eb-9673-417033a6e8ad" src="https://github.com/user-attachments/assets/962294c2-6459-4f7f-a15a-64381bf575b2" />
 </p>
