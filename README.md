@@ -6,7 +6,7 @@ This is a hands-on tutorial for creating and managing resources within an OpenSt
 - Deploying and accessing example applications/services running within OpenStack.
 - Creating and managing resources via Terraform and GitLab.
 
-The idea is approach this in numerical order of the directory structure, but to get somewhat more out of this, the following order is recommended:
+The idea is to approach this in numerical order of the directory structure, but to get somewhat more out of this, the following order is recommended:
 - Sections 0, 1, 2, and 3.1.
 - Section 4 and then back to 3.2.
 
