@@ -19,11 +19,13 @@ The idea is to approach this in numerical order of the directory structure, but 
   <img width="40%" alt="26-264076_openstack-logo-png-transparent-png" src="https://github.com/user-attachments/assets/cb5e06fd-54cf-445f-aa50-4fde4db9525a" />
 </p>
 
+![1620155444-blog-library-product-terraform-aws](https://github.com/user-attachments/assets/62218315-733b-4cb7-b65e-d3a0606ae6d9)
+
 <p align="center">
-  <img width="25%" alt="Hashicorp-Terraform_onDark" src="https://github.com/user-attachments/assets/8d2491fb-fcf2-42a0-a268-e420e716de86" />
   <img width="15%" alt="aptira_grafana_prometheus_training" src="https://github.com/user-attachments/assets/a6e49cb3-a395-4567-83cf-075b53e42949" />
 </p>
 
 <p align="center">
   <img width="20%" alt="113486723-37566400-9482-11eb-9673-417033a6e8ad" src="https://github.com/user-attachments/assets/962294c2-6459-4f7f-a15a-64381bf575b2" />
 </p>
+
