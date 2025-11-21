@@ -23,7 +23,7 @@ The idea is to approach this in numerical order of the directory structure, but 
 
 <p align="center">
   <img width="18%" alt="terraform" src="https://github.com/user-attachments/assets/62218315-733b-4cb7-b65e-d3a0606ae6d9" />
-  <img width="15%" alt="aptira_grafana_prometheus_training" src="https://github.com/user-attachments/assets/a6e49cb3-a395-4567-83cf-075b53e42949" />
+  <img width="16%" alt="aptira_grafana_prometheus_training" src="https://github.com/user-attachments/assets/a6e49cb3-a395-4567-83cf-075b53e42949" />
 </p>
 
 <p align="center">
