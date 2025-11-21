@@ -16,7 +16,7 @@ The idea is to approach this in numerical order of the directory structure, but 
 </p>
 
 <p align="center">
-  <img width="50%" alt="OpenStack-Logo-Horizontal" src="https://github.com/user-attachments/assets/ab034a6e-0d74-40b4-b7cd-a8f37daa823d" />
+  <img width="860" height="255" alt="26-264076_openstack-logo-png-transparent-png" src="https://github.com/user-attachments/assets/cb5e06fd-54cf-445f-aa50-4fde4db9525a" />
 </p>
 
 <p align="center">
