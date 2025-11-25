@@ -26,3 +26,5 @@ This is a hands-on tutorial for creating and managing resources within an OpenSt
 The idea is to approach this in numerical order of the directory structure, but to get somewhat more out of this, the following order is recommended:
 - Sections 0, 1, 2, and 3.1.
 - Section 4 and then back to 3.2.
+
+NB! If you are attending the workshop for this at the CHPC National Conference, then you may skip section 0.
